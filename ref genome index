@@ -1,0 +1,1 @@
+STAR --runMode genomeGenerate --genomeDir STARIndex --genomeFastaFiles ref_genome/GCF_000001215.4_Release_6_plus_ISO1_MT_genomic.fna --sjdbGTFfile ref_genome/GCF_000001215.4_Release_6_plus_ISO1_MT_genomic.gtf --sjdbOverhang 100 --runThreadN 8c
