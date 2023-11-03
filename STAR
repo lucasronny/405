@@ -1,0 +1,1 @@
+STAR --genomeDir STARIndex --readFilesIn RNA_Seq_ENA/infected/SRR442111< >.fastq   --outFileNamePrefix align_infected/SRR442111< >/SRR442111< >_ --outSAMtype BAM SortedByCoordinate --runThreadN 8 --quantMode GeneCounts
